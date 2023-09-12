@@ -12,7 +12,7 @@ set services[2]="QlikSenseRepositoryService"
 set log_file="%~dp0service_log.csv"
 set max_retries=3
 set check_interval=20
-set restart_timeout=12
+set restart_timeout=60
 
 
 :: Determine the number of services in the array
