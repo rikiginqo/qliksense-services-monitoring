@@ -71,4 +71,4 @@ Your batch script will now run at startup as configured in Task Scheduler, conti
 
 ---
 
-*This script is provided as a tool for proactive QlikSense service management and should be used responsibly. Any service-related actions should be performed with caution and in accordance with your organization's policies and procedures.*
+*Disclaimer: This script was created using ChatGPT assistance and is provided as a tool for proactive QlikSense service management and should be used responsibly. Any service-related actions should be performed with caution and in accordance with your organization's policies and procedures.*
